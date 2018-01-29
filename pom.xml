@@ -4,10 +4,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.icterguru</groupId>
-  <artifactId>ICTERGuru_JenkinsTest</artifactId>
+  <artifactId>ICTERGuru-JenkinsTest</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>ICTERGuru_JenkinsTest</name>
+  <name>ICTERGuru-JenkinsTest</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.icterguru.com</url>
 
@@ -207,10 +207,10 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:git@github.com:icterguru/ICTERGuru_JenkinsTest.git</connection>
-    <developerConnection>scm:git:git@github.com:icterguru/ICTERGuru_JenkinsTest.git</developerConnection>
+    <connection>scm:git:git@github.com:icterguru/ICTERGuru-JenkinsTest.git</connection>
+    <developerConnection>scm:git:git@github.com:icterguru/ICTERGuru-JenkinsTest.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/icterguru/ICTERGuru_JenkinsTest</url>
+    <url>http://github.com/icterguru/ICTERGuru-JenkinsTest</url>
   </scm>
 
   <prerequisites>

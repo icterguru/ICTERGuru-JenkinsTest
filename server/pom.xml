@@ -5,15 +5,15 @@
 
   <parent>
     <groupId>com.icterguru</groupId>
-    <artifactId>ICTERGuru_JenkinsTest</artifactId>
+    <artifactId>ICTERGuru-JenkinsTest</artifactId>
     <version>1.0-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>server</artifactId>
+  <artifactId>ICTERGuru-JenkinsTest_server</artifactId>
   <packaging>jar</packaging>
-  <name>Server</name>
-  <description>Logic.</description>
+  <name>ICTERGuru-JenkinsTest_Server</name>
+  <description>ICTERGuru-JenkinsTest Logic.</description>
 
   <build>
     <finalName>${project.artifactId}</finalName>
